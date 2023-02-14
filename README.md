@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/build-passing-success) ![](https://img.shields.io/github/last-commit/Dwk0910/JavaTerminal)
+
 # JavaTerminal
 
 JavaTerminal 이란 bash, zsh 등과 같은 콘솔형 터미널을 자바로 구현한 것으로,</br>
@@ -38,7 +40,7 @@ JavaTerminal 의 기본 커맨드를 확인할 수 있습니다.
 | 매개변수 | 설명 |
 |---|---|
 |```-s```   | 로그인 화면으로 이동하지 않고 바로 종료합니다 |
-|```-t [time(s)]``` | (s)초 만큼 기다리고 로그인 화면으로 이동합니다.</br> -s 매개변수와 함께 사용한다면 -s 매개변수 뒤에 -t 가 위치하여야 하며,</br>(s)초 만큼 기다리고 바로 종료합니다 |
+<!--|```-t [time(s)]``` | (s)초 만큼 기다리고 로그인 화면으로 이동합니다.</br> -s 매개변수와 함께 사용한다면 -s 매개변수 뒤에 -t 가 위치하여야 하며,</br>(s)초 만큼 기다리고 바로 종료합니다 | -->
 
 </br>
 

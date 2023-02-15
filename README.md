@@ -5,7 +5,7 @@
 # JavaTerminal
 
 JavaTerminal 이란 bash, zsh 등과 같은 콘솔형 터미널을 자바로 구현한 것으로,</br>
-Dwk0910이 배포한 유틸리티 패키지나 게임 등을 실행시킬 수 있습니다.
+Dwk0910이 배포한 패키지 실행시킬 수 있습니다.
 
 </br>
 </br>

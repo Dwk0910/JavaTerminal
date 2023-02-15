@@ -48,6 +48,10 @@ JavaTerminal 의 기본 커맨드를 확인할 수 있습니다.
 ```logout [-sl]```<!-- [-t [time(s)]] -->
 </br>
 </br>
+이 프로그램은 Dwk0910이 단독으로 제작, 관리하며 부족한 부분이 많을 수 있습니다.</br>
+프로그램 관련 버그나 추가 요청사항은 언제나 환영이니 아래 이메일로 보내주시면 적극 반영하겠습니다.</br>
+hyanghee0624@gmail.com
+</br>
 </br>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />이 저작물은 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
 </br>

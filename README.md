@@ -1,5 +1,7 @@
 ![](https://img.shields.io/badge/build-passing-success) ![](https://img.shields.io/github/last-commit/Dwk0910/JavaTerminal)
 
+이 파일은 가장 최신 JavaTerminal 버전을 기준으로 작성되었으므로, </br>
+최신버전이 아닌 버전에서는 여기서 설명하는 기능이 정상적으로 동작하지 않을 수 있습니다.
 # JavaTerminal
 
 JavaTerminal 이란 bash, zsh 등과 같은 콘솔형 터미널을 자바로 구현한 것으로,</br>
